@@ -2,13 +2,16 @@
 
 # ⚡ XSS Scanner (Playwright-Based)
 
-Modern **XSS Scanner** berbasis **Playwright** yang dirancang untuk **bug bounty hunters** dan **security researchers**.  
-Tool ini melakukan **real browser–based XSS detection** melalui crawling, URL parameter injection, dan smart form submission.
+A modern **Playwright-based XSS Scanner** designed for **bug bounty hunters**
+and **security researchers**.
+
+This tool performs **real browser–based XSS detection** through crawling,
+URL parameter injection, and smart form submission.
 
 This Playwright-based XSS scanner is designed for bug bounty hunters and penetration testers
 to detect real-world executed cross-site scripting vulnerabilities.
 
-> 🔥 Fokus pada **XSS yang benar-benar DIEKSEKUSI**, bukan sekadar reflected string.
+> 🔥 Focused on **XSS that is actually EXECUTED**, not just reflected strings.
 
 </div>
 
