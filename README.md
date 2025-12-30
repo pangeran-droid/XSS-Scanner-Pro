@@ -89,7 +89,7 @@ playwright install chromium
 ## ▶️ Usage
 
 ```bash
-python main.py -u https://target.com
+python3 main.py -u https://target.com
 ```
 
 ### Options
