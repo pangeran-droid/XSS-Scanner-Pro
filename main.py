@@ -25,7 +25,7 @@ def banner():
                                                                                         
           
         XSS Scanner Pro
-        Maintained by pangeran-droid
+        Maintained by pangeran
 """)
     print(Style.DIM + "────────────────────────────────────────────")
 
